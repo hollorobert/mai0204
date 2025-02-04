@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+}
+#kutya{
+    width: 400px;
+    height: 380px;
+    border: 5px solid darkred;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 100px; 
+}
+#buza{
+    padding: 5px;
+    border: thin solid grey;
+    display: block;
+    margin: auto;
+}
+figcaption{
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 100px;
+}
+#f2{
+    margin-top: 100px;
+}
+#f1{
+    margin-top: 100px;
+}
+#f3{
+    margin-top: 100px;
+}
+#img01{
+    border: dashed;
+    border-radius: 50%;
+}
+#img02{
+    border: 3px orange solid;
+    border-radius: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#img03{
+    border: 7px rgb(51, 51, 170) double;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
